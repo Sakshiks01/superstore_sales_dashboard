@@ -28,20 +28,20 @@ This project is a comprehensive data analysis and visualization of the Superstor
 - DAX (Calculated Columns: Returned, Profit Ratio)
 - Excel (.xls dataset)
 
-##  Files Included
+## Files Included
 
 - `Superstore Sales Dashboard.pbix` – Main Power BI file
 - `dashboard-screenshot.png` – Visual of the dashboard
 - `insights.txt` – Written summary of insights
 - `README.md` – Project overview
 
-##  How to View
+## How to View
 
 1. Download Power BI Desktop (free from Microsoft)
 2. Open `Superstore Sales Dashboard.pbix`
 3. Interact with slicers and visuals to explore data
 
-##  Author
+## Author
 
 - Sakshi Sonawane  
 - [LinkedIn](https://www.linkedin.com/in/sakshi-sonawane-7867b3225/) | [GitHub](https://github.com/Sakshiks01)
